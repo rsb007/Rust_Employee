@@ -1,0 +1,9 @@
+[package]
+name = "Rust_employee"
+version = "0.1.0"
+authors = ["rsb007 <rahul.sing@knoldus.in>"]
+
+[dependencies]
+cdrs_helpers_derive = '*'
+maplit = '1.0.1'
+cdrs = "2.0.0-beta.3"
